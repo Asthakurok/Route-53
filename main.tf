@@ -1,5 +1,5 @@
 resource "aws_route53_record" "skillnet" {
-  zone_id = "/hostedzone/Z13DF8DT9AJFGQ"
+  zone_id = "Z1OR3ELE87K0B5"
   name    = "skillnet.example.com"
   type    = "A"
 
